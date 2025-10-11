@@ -4,7 +4,7 @@ This is teaching material for the course "Kategorientheorie in den Naturwissensc
 
 For further details check out the [*syllabus*](https://github.com/nimarasekh/ACT-WiSe25/blob/master/Syllabus_ACT_Wi2025.pdf).
 
-# Background Material and References
+## Background Material and References
 
 We first focus on basic categorical concepts (such as categories, functors, natural transformation). Here are some good sources:
 
