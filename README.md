@@ -11,3 +11,12 @@ We first focus on basic categorical concepts (such as categories, functors, natu
 1. S. Mac Lane, *Categories for the working mathematician*, second edition, Graduate Texts in Mathematics, 5, Springer, New York, 1998
 2. E. Riehl, *Category theory in context*, Aurora Dover Modern Math Originals, Dover, Mineola, NY, 2016, [available online](https://emilyriehl.github.io/files/context.pdf)
 3. M. Brandenburg, *Einführung in die Kategorientheorie. Mit ausführlichen Erklärungen und zahlreichen Beispielen*, 2nd revised edition. Heidelberg: Springer Spektrum, 2017
+
+## Talk Topics
+
+Every student should pick a subject based on the list in the syllabus and prepare a talk addressing four questions:
+
+1. Background material related to the application.
+2. Relevant categorical background.
+3. How category theory is applied in this particular context.
+4. Whether the categorical application is in fact useful.
