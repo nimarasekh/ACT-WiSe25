@@ -1,5 +1,4 @@
-# Applied Category Theory Seminar 
-# WiSe 2025 Uni Greifswald
+# Applied Category Theory Seminar <br> WiSe 2025 Uni Greifswald
 
 This is teaching material for the course "Kategorientheorie in den Naturwissenschaften" (Category Theory in the Natural Sciences).
 
