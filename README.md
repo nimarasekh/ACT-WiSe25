@@ -32,6 +32,6 @@ Every student should pick a subject based on the list in the syllabus and prepar
 
 Here are further links that can be helpful:
 
-1. The [Adjoing School](https://adjointschool.com/) has a lot of relevant content.
+1. The [Adjoint School](https://adjointschool.com/) has a lot of relevant content.
 2. The [Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-ct) contains many useful resources.
 3. The [Category Theory Zulip](https://categorytheory.zulipchat.com/) contains a lot of useful content and interesting discussions.
