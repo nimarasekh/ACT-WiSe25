@@ -10,7 +10,7 @@ We first focus on basic categorical concepts (such as categories, functors, natu
 
 1. S. Mac Lane, *Categories for the working mathematician*, second edition, Graduate Texts in Mathematics, 5, Springer, New York, 1998
 2. E. Riehl, *Category theory in context*, Aurora Dover Modern Math Originals, Dover, Mineola, NY, 2016, [available online](https://emilyriehl.github.io/files/context.pdf)
-3. T. Leinster, *Basic Category Theory*, Cambridge Studies in Advanced Mathematics, 143, Cambridge Univ. Press, Cambridge, 2014 [available online](https://arxiv.org/abs/1612.09375)
+3. T. Leinster, *Basic Category Theory*, Cambridge Studies in Advanced Mathematics, 143, Cambridge Univ. Press, Cambridge, 2014, [available online](https://arxiv.org/abs/1612.09375)
 4. M. Brandenburg, *Einführung in die Kategorientheorie. Mit ausführlichen Erklärungen und zahlreichen Beispielen*, 2nd revised edition. Heidelberg: Springer Spektrum, 2017
    
 
